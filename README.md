@@ -21,6 +21,8 @@
 
 ### Knowledges
 
+[![](https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b)](http://www.cplusplus.com/)&nbsp;
+
 ### Genshin Impact
 
 <img src="https://genshin-card.getloli.com/detail/12,17,20,59/82514798.png" alt="genshin-card" />
