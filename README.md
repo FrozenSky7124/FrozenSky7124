@@ -22,6 +22,7 @@
 ### Knowledges
 
 [![](https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b)](http://www.cplusplus.com/)&nbsp;
+[![](https://img.shields.io/badge/Qt%20Creator-669933?style=flat-square&logo=Qt)](https://www.qt.io/)&nbsp;
 
 ### Genshin Impact
 
