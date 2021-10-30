@@ -2,7 +2,7 @@
 
 ### MY
 
-<p align="center">
+<p align="left">
   <a href="https://space.bilibili.com/1614185" target="_blank"><img src="https://img.shields.io/badge/BiliBili-ff9999.svg?&style=flat-square&logo=bilibili&logoColor=white" alt="BiliBili"></a>
   <a href="mailto:frozensky.7124@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 
