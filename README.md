@@ -26,7 +26,8 @@
 
 ### Genshin Impact
 
-<img src="https://genshin-card.getloli.com/detail/12,17,20,59/82514798.png" alt="genshin-card" />
+<!-- <img src="https://genshin-card.getloli.com/detail/12,17,20,59/82514798.png" alt="genshin-card" /> -->
+<a href="https://ys.mihoyo.com/" target="_blank"><img src="https://i.loli.net/2021/11/01/SeT9cytYJGnP3VN.png" alt="Genshin-Card" /></a>
 
 <!--
 **FrozenSky7124/FrozenSky7124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
