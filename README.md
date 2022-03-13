@@ -5,7 +5,8 @@
 <p align="left">
   <a href="https://space.bilibili.com/1614185" target="_blank"><img src="https://img.shields.io/badge/BiliBili-ff9999.svg?&style=flat-square&logo=bilibili&logoColor=white" alt="BiliBili"></a>
   <a href="mailto:frozensky.7124@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-
+  <a href="https://github.com/FrozenSky7124" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
+  <a href="https://t.me/FrozenSky7124" target="_blank"><img src="https://img.shields.io/badge/Telegram-262968.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>  
 </p>
 
 <!--
@@ -24,6 +25,9 @@
 
 [![](https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b)](http://www.cplusplus.com/)&nbsp;
 [![](https://img.shields.io/badge/Qt%20Creator-669933?style=flat-square&logo=Qt)](https://www.qt.io/)&nbsp;
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)&nbsp;
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
+[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)&nbsp;
 
 ### Genshin Impact
 
