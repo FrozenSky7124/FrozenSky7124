@@ -12,7 +12,7 @@
 <img align="right" width="350px" src="https://i.loli.net/2021/10/17/jnliELMfPSkphtB.png" />
 <img align="right" width="300px" src="https://i.loli.net/2021/10/17/8yqXcQFOg5uCVPx.png" />
 -->
-<img align="right" width="300px" src="https://frozensky.eu.org:7124/img/keqing_shilaimu.png" />
+<img align="right" width="300px" src="https://cdn.jsdelivr.net/gh/FrozenSky7124/FrozenSky7124@main/assets/keqing_shilaimu.png" />
 
 ### Platform&Tools
 
@@ -28,7 +28,7 @@
 ### Genshin Impact
 
 <!-- <img src="https://genshin-card.getloli.com/detail/12,17,20,59/82514798.png" alt="genshin-card" /> -->
-<a href="https://ys.mihoyo.com/" target="_blank"><img src="https://i.loli.net/2021/11/01/SeT9cytYJGnP3VN.png" alt="Genshin-Card" /></a>
+<a href="https://ys.mihoyo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/FrozenSky7124/FrozenSky7124@main/assets/GenshinImpact_20220313.jpg" alt="Genshin-Card" /></a>
 
 <!--
 **FrozenSky7124/FrozenSky7124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
