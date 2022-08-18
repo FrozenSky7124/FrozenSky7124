@@ -32,7 +32,7 @@
 ### Genshin Impact
 
 <!-- <img src="https://genshin-card.getloli.com/detail/12,17,20,59/82514798.png" alt="genshin-card" /> -->
-<a href="https://ys.mihoyo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/FrozenSky7124/FrozenSky7124@main/assets/GenshinImpact_20220313.jpg" alt="Genshin-Card" /></a>
+<a href="https://ys.mihoyo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/FrozenSky7124/FrozenSky7124@main/assets/GenshinImpact_20220820.jpg" alt="Genshin-Card" /></a>
 
 <!--
 **FrozenSky7124/FrozenSky7124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
